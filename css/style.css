@@ -1,4 +1,8 @@
+/** thanks to https://codeberg.org/pompom 
+ * css starter from https://frontendmasters.com/blog/the-coyier-css-starter/
+ * */
 @layer reset {
+
   html {
     color-scheme: light dark;
     font:
