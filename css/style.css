@@ -58,6 +58,7 @@
   dd {
     text-wrap: pretty;
     max-inline-size: 88ch;
+    font-size: 0.75rem;
   }
 
   a {
