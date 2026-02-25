@@ -257,6 +257,7 @@
   }
 }
 
+/* IF css*/
 header {
   h1 {
     margin: 0;
@@ -265,6 +266,10 @@ header {
   display: flex;
   align-items: center;
   gap: 15px;
+}
+
+main {
+  margin-block-start: 20px;
 }
 
 .if-logo {
